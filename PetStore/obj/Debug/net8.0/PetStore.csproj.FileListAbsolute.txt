@@ -1,0 +1,5 @@
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\PetStore\obj\Debug\net8.0\PetStore.csproj.AssemblyReference.cache
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\PetStore\obj\Debug\net8.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\PetStore\obj\Debug\net8.0\PetStore.AssemblyInfoInputs.cache
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\PetStore\obj\Debug\net8.0\PetStore.AssemblyInfo.cs
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\PetStore\obj\Debug\net8.0\PetStore.csproj.CoreCompileInputs.cache

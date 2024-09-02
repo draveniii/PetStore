@@ -1,0 +1,4 @@
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache

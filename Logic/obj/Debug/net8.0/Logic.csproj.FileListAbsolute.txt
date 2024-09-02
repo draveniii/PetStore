@@ -1,0 +1,4 @@
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+C:\Users\drave\Documents\02_School\03_CodeKentucky\03_SoftwareEngineering\PetStore\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
